@@ -1,0 +1,11 @@
+To use these files you will need TM Interface : https://donadigo.com/tminterface/
+
+You can use this tutorial : https://youtu.be/EtxEoFLY6t4
+
+Click on "Download the newest version", run the TM Interface.exe file and a window will open, click on additional information and run anyway.
+Complete the installation.
+Go to explorer, TM Interface Documents, Scripts and copy paste the input files in the scripts folder.
+Now, run TM Interface.exe in your game directory, the game will start.
+Start the race of your choice (example the race A01) and in the command prompt type "load \A01.txt", press enter and try the race again. TA-DAAAA !!
+
+If the car does not drive itself watch the tutorial : https://youtu.be/EtxEoFLY6t4
